@@ -137,7 +137,7 @@
     </dependency>
 
     <dependency>
-      <groupId>org.rhq</groupId>
+      <groupId>org1.rhq</groupId>
       <artifactId>rhq-enterprise-comm</artifactId>
       <version>4.13</version>
     </dependency>
