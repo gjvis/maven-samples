@@ -135,6 +135,12 @@
       <artifactId>jsf-impl</artifactId>
       <version>2.1.24</version>
     </dependency>
+
+    <dependency>
+      <groupId>org.rhq</groupId>
+      <artifactId>rhq-enterprise-comm</artifactId>
+      <version>4.13</version>
+    </dependency>
            
     <dependency>
       <groupId>io.undertow</groupId>
