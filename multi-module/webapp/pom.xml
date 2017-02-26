@@ -33,6 +33,12 @@
       <artifactId>jsf-impl</artifactId>
       <version>2.1.19</version>
     </dependency>
+           
+    <dependency>
+      <groupId>org.apache.derby</groupId>
+      <artifactId>derby</artifactId>
+      <version>10.11.1.1</version>
+    </dependency>
 
     <dependency>
       <groupId>${project.groupId}</groupId>
