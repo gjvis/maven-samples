@@ -18,6 +18,10 @@
   <build>
     <finalName>${project.artifactId}</finalName>
   </build>
+         
+  <properties>
+           <bgbg>aaa</bgbg>
+         </properties>
 
   <dependencies>
 
