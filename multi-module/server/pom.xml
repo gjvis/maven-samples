@@ -21,11 +21,6 @@
 
   <dependencies>
 
-    <dependency>
-      <groupId>org.keycloak</groupId>
-      <artifactId>keycloak-services</artifactId>
-      <version>1.0.1.Final</version>
-    </dependency>
 
     <dependency>
       <groupId>batik</groupId>
