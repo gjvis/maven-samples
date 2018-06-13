@@ -24,7 +24,7 @@
     <dependency>
       <groupId>org.keycloak</groupId>
       <artifactId>keycloak-services</artifactId>
-      <version>1.0.1.Final</version>
+      <version>3.3.0.Final</version>
     </dependency>
 
     <dependency>
@@ -36,7 +36,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>4.1.6.RELEASE</version>
+      <version>4.3.15.RELEASE</version>
     </dependency>
 
     <dependency>
